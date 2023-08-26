@@ -3,7 +3,7 @@
 ## I'm a Student!
 
 - 🔭 Persuing my degree at GECH.
-- 🥅 Goals: Excellence as a full stack developer.
+- 🥅 Goal: Excel as a full stack developer.
 - ⚡ Fun fact: I love to draw / paint.
 
 ### Connect Me:
