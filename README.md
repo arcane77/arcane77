@@ -9,7 +9,7 @@
 ### Connect Me:
 
 [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
-[<img align="left" alt="me | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
+[<img align="left" alt="me | LinkedIn" width="96" height="96" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 <br />
 
 ### Languages and Tools that I use:
