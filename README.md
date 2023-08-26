@@ -8,7 +8,7 @@
 
 ### Connect Me:
 
-[<img align="left" alt="me | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="me | Gmail" width="22px" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" />][gmail]
 [<img align="left" alt="me | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="me | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
