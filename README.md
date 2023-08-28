@@ -20,10 +20,10 @@
 <img align="left" width="34px"  src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" />
 <img align="left" width="34px"  src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" />
 <img align="left" width="30px"  src="https://img.icons8.com/color/48/figma--v1.png" />
-<img align="left" alt="MySQL" width="34px" src="https://img.icons8.com/color/48/mysql-logo.png" />
+<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/48/mysql-logo.png" />
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/stickers/48/github.png" />
 <img align="left" alt="Visual Studio Code" width="34px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-<img align="left" width="28px"  src="https://img.icons8.com/officexs/48/java-eclipse.png" alt="java-eclipse" />
+<img align="left" width="32px"  src="https://img.icons8.com/officexs/48/java-eclipse.png" alt="java-eclipse" />
 
 
 <br />
