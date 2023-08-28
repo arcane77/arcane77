@@ -2,7 +2,8 @@
 
 ## I'm a Student!
 
-- 🔭 Persuing my degree at GECH.
+- 🔭 Persuing my degree at GECH(VTU)
+- 
 - 🥅 Goal: Excel as a full stack developer.
 - ⚡ Fun fact: I love to draw / paint.
 
