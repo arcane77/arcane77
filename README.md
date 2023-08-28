@@ -16,7 +16,7 @@
 
 <img align="left" alt="HTML5" width="34px" src="https://img.icons8.com/color/48/html-5--v1.png" />
 <img align="left" alt="CSS3" width="34px" src="https://img.icons8.com/color/48/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="34px" src="https://img.icons8.com/color/48/javascript--v1.png" />
 <img align="left" width="34px"  src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" />
 <img align="left" width="34px"  src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" />
 <img align="left" width="30px"  src="https://img.icons8.com/color/48/figma--v1.png" />
