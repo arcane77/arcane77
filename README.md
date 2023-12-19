@@ -6,7 +6,7 @@
 - 🥅 Goal: Excel as a full-stack developer
 - ⚡ Fun fact: I love to doodle
 
-### Connect Me:
+### Contact Me:
 
 [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
 [<img align="left" alt="me | LinkedIn" width="27"  src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
