@@ -2,9 +2,9 @@
 
 ### An Undergrad Student!
 
-- 🔭 Persuing Bachelor of Engineering at GECH (VTU)
-- 🥅 Goal: Excel as a full-stack developer
-- ⚡ Fun fact: I love to doodle
+-  Persuing Bachelor of Engineering at GECH (VTU)
+- Goal: Excel as a full-stack developer
+-  Fun fact: I love to doodle
 
 ### Contact Me:
 
