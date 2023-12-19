@@ -1,6 +1,6 @@
-### Hey there, I'm ANJALI 👋 
+## Hey there, I'm ANJALI 👋 
 
-## An Undergrad Student!
+### An Undergrad Student!
 
 - 🔭 Persuing Bachelor of Engineering at GECH (VTU)
 - 🥅 Goal: Excel as a full-stack developer
