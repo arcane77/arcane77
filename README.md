@@ -4,7 +4,7 @@
 
 - 🔭 Persuing my degree at GECH (VTU)
 - 🥅 Goal: Excel as a full-stack developer
-- ⚡ Fun fact: I love to draw / paint
+- ⚡ Fun fact: I love to doodle
 
 ### Connect Me:
 
