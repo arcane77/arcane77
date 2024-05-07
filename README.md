@@ -3,7 +3,7 @@
 ### An Undergrad Student!
 
 -  Persuing Bachelor of Engineering at GECH (VTU)
-- Aim: Excel as a full-stack developer
+-  Excel as a full-stack developer
 -  Fun fact: I love to doodle
 
 ### Contact Me:
