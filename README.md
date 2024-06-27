@@ -1,9 +1,8 @@
 ## Hey there, I'm ANJALI 👋 
 
-### An Undergrad Student!
 
--  Persuing Bachelor of Engineering at GECH (VTU)
--  Excel as a full-stack developer
+-  Bachelor of Engineering in CSE (VTU)
+-  Aim: Excel as a full-stack developer
 -  Fun fact: I love to doodle
 
 ### Contact Me:
