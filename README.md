@@ -6,7 +6,7 @@
 -  Fun fact: I love to doodle
 
 
- <img align='right' src="https://i.postimg.cc/ZKcsXyt2/bgg.png" width="260">
+ <img align='right' src="https://i.postimg.cc/ZKcsXyt2/bgg.png" width="280">
 
 
 
