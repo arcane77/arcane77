@@ -12,7 +12,10 @@
 <br />
 
 
-<img src="https://i.postimg.cc/Pqtjjpt9/image.png" style="position: absolute; top: 0px; left: 80px; width: 100px;" alt="Description">
+<div align="right">
+    <img src="https://i.postimg.cc/Pqtjjpt9/image.png" width="100px" alt="Description">
+</div>
+
 
 
 
