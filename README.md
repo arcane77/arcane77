@@ -6,9 +6,9 @@
     - Aim: Excel as a full-stack developer<br>
     - Fun fact: I love to doodle<br>
 
-    ### Contact Me:
+  ### Contact Me:
 
-    [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
+  [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
     [<img align="left" alt="me | LinkedIn" width="27px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
     <br />
   </div>
