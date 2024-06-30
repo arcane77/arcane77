@@ -37,10 +37,11 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=arcane77&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=arcane77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane77&theme=dark&hide_border=false" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane77&theme=tokyonight&hide_border=false" />
+
     </td>
   </tr>
 </table>
