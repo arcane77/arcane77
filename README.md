@@ -11,7 +11,7 @@
 [<img align="left" alt="me | LinkedIn" width="27"  src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 <br />
 <div style="position: relative; height: 200px;"> <!-- Adjust height as necessary -->
-    <img src="https://i.postimg.cc/Pqtjjpt9/image.png" style="position: absolute; top: 10px; left: 10px; width: 100px;" alt="Description">
+    <img src="https://i.postimg.cc/Pqtjjpt9/image.png" style="position: absolute; top: 0px; left: 80px; width: 100px;" alt="Description">
 </div>
 
 
