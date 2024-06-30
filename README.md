@@ -5,8 +5,7 @@
 -  Aim: Excel as a full-stack developer
 -  Fun fact: I love to doodle
 
- <img align='right' src="[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif](https://gifyu.com/image/Sr50e)" width="230">
-
+<iframe src="https://giphy.com/embed/mSTSPG77hiNbm12gZu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-mSTSPG77hiNbm12gZu">via GIPHY</a></p>
 
 ### Contact Me:
 
