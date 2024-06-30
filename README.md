@@ -10,6 +10,10 @@
 [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
 [<img align="left" alt="me | LinkedIn" width="27"  src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 <br />
+<div style="position: relative; height: 200px;"> <!-- Adjust height as necessary -->
+    <img src="" style="position: absolute; top: 10px; left: 10px; width: 100px;" alt="Description">
+</div>
+
 
 ### Languages and Tools that I use:
 
