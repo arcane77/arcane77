@@ -6,9 +6,9 @@
 -  Fun fact: I love to doodle
 
 
- <img align='right' src="[[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif](https://gifyu.com/image/Sr50e)](https://giphy.com/embed/mSTSPG77hiNbm12gZu)" width="230">
+ <img align='right' src="https://i.postimg.cc/ZKcsXyt2/bgg.png" width="230">
 
- Illustration by <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
 
 
 ### Contact Me:
