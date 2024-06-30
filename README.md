@@ -12,7 +12,7 @@
 <br />
 
 
-<div align="right">
+[![](https://visitcount.itsvg.in/api?id=arcane77&icon=0&color=0&theme=tokyonight)](https://visitcount.itsvg.in) <div align="right">
     <img src="https://i.postimg.cc/Pqtjjpt9/image.png" width="100px" alt="Description">
 </div>
 
@@ -57,5 +57,5 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=arcane77&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
