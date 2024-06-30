@@ -5,6 +5,8 @@
 -  Aim: Excel as a full-stack developer
 -  Fun fact: I love to doodle
 
+  <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+
 ### Contact Me:
 
 [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
