@@ -5,7 +5,7 @@
 -  Aim: Excel as a full-stack developer
 -  Fun fact: I love to doodle
 
-  <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+  <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="270">
 
 ### Contact Me:
 
