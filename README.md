@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-<img style="left:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcane77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> <img src="https://github-contributor-stats.vercel.app/api?username=arcane77&limit=5&theme=dark&combine_all_yearly_contributions=true" width="57%" height="170px" alt="GitHub Contributor Stats"/>
+<img style="left:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcane77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> <img src="https://github-contributor-stats.vercel.app/api?username=arcane77&limit=5&theme=dark&combine_all_yearly_contributions=true" width="57%" height="165px" alt="GitHub Contributor Stats"/>
 
 
 ---
