@@ -8,6 +8,8 @@
 
  <img align='right' src="[[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif](https://gifyu.com/image/Sr50e)](https://giphy.com/embed/mSTSPG77hiNbm12gZu)" width="230">
 
+ Illustration by <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
 
 ### Contact Me:
 
