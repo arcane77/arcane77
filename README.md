@@ -32,7 +32,7 @@
 [linkedin]: https://www.linkedin.com/in/anjali-k-s-476345228/
 [instagram]: https://www.instagram.com/arcane__77/
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
