@@ -41,7 +41,6 @@
     </td>
     <td style="border: none;">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane77&theme=tokyonight&hide_border=false" />
-
     </td>
   </tr>
 </table>
