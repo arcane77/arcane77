@@ -39,16 +39,17 @@
 
 # GitHub Stats:
 
-<table>
+<table style="margin-left: -20px;">
   <tr>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=arcane77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
     <td style="border: none;">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane77&theme=tokyonight&hide_border=false" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane77&theme=tokyonight&hide_border=false" />
     </td>
   </tr>
 </table>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcane77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> <img src="https://github-contributor-stats.vercel.app/api?username=arcane77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="58%" height="165px" alt="GitHub Contributor Stats"/>
 
