@@ -3,7 +3,7 @@
 
 -  Bachelor of Engineering in CSE (VTU)
 -  Aim: Excel as a full-stack developer
--  Fun fact: I love to doodle             <img align='right' src="https://svgshare.com/i/17mw.svg" width="250">
+-  Fun fact: I love to doodle             <img align='right' src="https://i.postimg.cc/g2mg5Jwn/business-1.png" width="250">
 
 
 
