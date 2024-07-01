@@ -1,4 +1,4 @@
- ##  Hey there, i'm ANJALI 👋:
+ ##  Hey there, i'm ANJALI 👋
 
 
 -  Bachelor of Engineering in CSE (VTU)
