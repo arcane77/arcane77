@@ -39,7 +39,7 @@
 
 # GitHub Stats:
 
-<table style="margin-left: -20px;">
+<table style="margin-left: -40px;">
   <tr>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=arcane77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
