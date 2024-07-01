@@ -1,7 +1,4 @@
- Hey there <img src="https://i.ibb.co/b3Pm6LR/image.png" alt="Sample Image" width="32" height="32">
-
-
- ## I'm ANJALI
+ ##  Hey there, i'm ANJALI 👋:
 
 
 -  Bachelor of Engineering in CSE (VTU)
