@@ -35,7 +35,7 @@
   
 [gmail]: https://mail.google.com/mail/u/
 [linkedin]: https://www.linkedin.com/in/anjali-k-s-476345228/
-[instagram]: https://www.instagram.com/arcane__77/
+
 
 # GitHub Stats:
 
