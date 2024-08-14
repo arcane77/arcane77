@@ -5,7 +5,7 @@
 - Aim: Excel as a full-stack developer
 - Fun fact: I love to doodle
 
-[![Bongo Cat Codes #2 - Jamming](https://codepen.io/carolineartz/pen/qBOEzQa/image/small.png)](https://codepen.io/carolineartz/pen/qBOEzQa)
+[![Bongo Cat Codes #2 - Jamming](https://codepen.io/carolineartz/pen/qBOEzQa)
 
 ### Contact Me:
 
