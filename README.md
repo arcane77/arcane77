@@ -5,7 +5,11 @@
 - Aim: Excel as a full-stack developer
 - Fun fact: I love to doodle
 
-[![Bongo Cat Codes #2 - Jamming](https://codepen.io/carolineartz/pen/qBOEzQa)
+<iframe height="300" style="width: 100%;" scrolling="no" title="Bongo Cat Codes #2 - Jamming" src="https://codepen.io/carolineartz/embed/qBOEzQa?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/carolineartz/pen/qBOEzQa">
+  Bongo Cat Codes #2 - Jamming</a> by Caroline Artz (<a href="https://codepen.io/carolineartz">@carolineartz</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ### Contact Me:
 
