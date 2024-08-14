@@ -3,13 +3,8 @@
 
 - Bachelor of Engineering in CSE (VTU)
 - Aim: Excel as a full-stack developer
-- Fun fact: I love to doodle
+- Fun fact: I love to doodle            <img align='right' src="https://i.postimg.cc/PqVq82b7/poqey-EV-800-removebg-preview.png" width="240">
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Bongo Cat Codes #2 - Jamming" src="https://codepen.io/carolineartz/embed/qBOEzQa?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/carolineartz/pen/qBOEzQa">
-  Bongo Cat Codes #2 - Jamming</a> by Caroline Artz (<a href="https://codepen.io/carolineartz">@carolineartz</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
 
 ### Contact Me:
 
