@@ -30,6 +30,8 @@
 [gmail]: https://mail.google.com/mail/u/
 [linkedin]: https://www.linkedin.com/in/anjali-k-s-476345228/
 
+<br />
+
 # GitHub Stats:
 
 <table>
