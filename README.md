@@ -22,7 +22,6 @@
 <img align="left" alt="MySQL" width="34px" src="https://img.icons8.com/color/48/mysql-logo.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-<img align="left" width="32px"  src="https://img.icons8.com/officexs/48/java-eclipse.png" alt="java-eclipse" />
 
 <br />
 <br />
