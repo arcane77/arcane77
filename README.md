@@ -14,14 +14,14 @@
 
 ### Languages and Tools that I use:
 
-<img align="left" alt="HTML5" width="34px" src="https://img.icons8.com/color/48/html-5--v1.png" />
-<img align="left" alt="CSS3" width="34px" src="https://img.icons8.com/color/48/css3.png" />
-<img align="left" alt="JavaScript" width="34px" src="https://img.icons8.com/color/48/javascript--v1.png" />
-<img align="left" width="34px"  src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" />
-<img align="left" width="30px"  src="https://img.icons8.com/color/48/figma--v1.png" />
-<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/48/mysql-logo.png" />
-<img align="left" alt="Visual Studio Code" width="34px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
-<img align="left" alt="Visual Studio Code" width="34px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
+<img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/html-5--v1.png" />
+<img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/48/css3.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/48/javascript--v1.png" />
+<img align="left" width="32px"  src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" />
+<img align="left" width="28px"  src="https://img.icons8.com/color/48/figma--v1.png" />
+<img align="left" alt="MySQL" width="34px" src="https://img.icons8.com/color/48/mysql-logo.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
 <img align="left" width="32px"  src="https://img.icons8.com/officexs/48/java-eclipse.png" alt="java-eclipse" />
 
 <br />
