@@ -1,5 +1,5 @@
-## Hey there 👋
-# I'm ANJALI
+## Hey there, you found me 👋
+# I'm Anjali
 
 - Bachelor of Engineering in CSE (VTU)
 - Aim: Excel as a full-stack developer
